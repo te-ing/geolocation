@@ -1,0 +1,6 @@
+/* stylelint-disable property-no-unknown */
+stylelint-disable property-no-unknown body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-smooth: never;
+}

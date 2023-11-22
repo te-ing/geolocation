@@ -1,0 +1,20 @@
+/* stylelint-disable scss/dollar-variable-colon-space-after */
+/* stylelint-disable scss/dollar-variable-pattern */
+
+/* color */
+$primary: #7672f2;
+$primary_dark: #2d2f59;
+$secondary: #383f51;
+$gray_light: #f2f2f2;
+$gray: #e6e6e6;
+$gray_dark: #b3b3b3;
+$gray_darken: #929292;
+$black_text: #212121;
+$red: #f00520;
+$green: #5db075;
+
+/* effect */
+$shadow1: 0 1px 4px rgba(0, 0, 0, 20%);
+$shadow2:
+  0 2px 2px rgba(0, 0, 0, 20%),
+  0 0.5px 1px rgba(0, 0, 0, 25%);
